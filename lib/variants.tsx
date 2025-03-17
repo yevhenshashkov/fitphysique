@@ -1,7 +1,4 @@
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-import { GiDuration } from "react-icons/gi"
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-import { MdOpacity } from "react-icons/md"
+
 
 export const fadeIn = (direction: string, delay: number) => {
  return {
