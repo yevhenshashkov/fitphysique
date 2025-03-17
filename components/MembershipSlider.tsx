@@ -1,5 +1,5 @@
 "use client"
-import Image from 'next/image';
+// import Image from 'next/image';
 import { MdClose } from "react-icons/md";
 import { FaCheck } from "react-icons/fa6";
 

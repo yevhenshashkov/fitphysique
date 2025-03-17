@@ -2,10 +2,10 @@
 
 import CountUp from "react-countup";
 import {FaBriefcase, FaClock, FaTrophy} from "react-icons/fa";
-import { ImInsertTemplate, ImUser, ImUsers } from "react-icons/im";
+import {  ImUser } from "react-icons/im";
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
-import { div } from "framer-motion/client";
+// import { div } from "framer-motion/client";
 
 const stats = [
     {

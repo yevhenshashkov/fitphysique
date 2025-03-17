@@ -26,8 +26,8 @@ const brandImages = [
 ]
 
 import {motion} from 'framer-motion';
-import { div } from 'framer-motion/client';
-import { MdOpacity } from 'react-icons/md';
+// import { div } from 'framer-motion/client';
+// import { MdOpacity } from 'react-icons/md';
 
 //variants
 const brandContainerVariant = {

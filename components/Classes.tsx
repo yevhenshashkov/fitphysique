@@ -4,7 +4,7 @@ import Image from "next/image";
 import { motion } from "framer-motion";
 import { fadeIn } from "@/lib/variants";
 import CustomButton from "./CustomButton";
-import { div } from "framer-motion/client";
+// import { div } from "framer-motion/client";
 
 const classes = [
   {
